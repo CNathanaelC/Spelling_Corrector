@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b428f83f-adeb-4cf9-9efe-0cc4ff851fb4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cheney-SpellingCorrector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jars/apiguardian-api-1.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jars/junit-jupiter-api-5.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jars/junit-platform-commons-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jars/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notsobig.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passoff/SpellTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/passoff/TrieTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/INode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/ISpellCorrector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/ITrie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/SpellCorrector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spell/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testingtesting123.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/word.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/words.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2V2jWSLBKELuMxj3BmFZs6ZQK3C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/bubba/IdeaProjects/Cheney-SpellingCorrector/jars&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\bubba\IdeaProjects\Cheney-SpellingCorrector" />
+      <recent name="C:\Users\bubba\IdeaProjects\Cheney-SpellingCorrector\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.passoff in Cheney-SpellingCorrector">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="spell.Main" />
+      <module name="Cheney-SpellingCorrector" />
+      <option name="PROGRAM_PARAMETERS" value="notsobig.txt Jason" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="spell.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cheney-SpellingCorrector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="MAIN_CLASS_NAME" value="passoff.SpellTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpellTest.testBigFile" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cheney-SpellingCorrector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="MAIN_CLASS_NAME" value="passoff.SpellTest" />
+      <option name="METHOD_NAME" value="testBigFile" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cheney-SpellingCorrector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="MAIN_CLASS_NAME" value="passoff.TrieTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieTest.testSingleWord" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cheney-SpellingCorrector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="MAIN_CLASS_NAME" value="passoff.TrieTest" />
+      <option name="METHOD_NAME" value="testSingleWord" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="passoff in Cheney-SpellingCorrector" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Cheney-SpellingCorrector" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="passoff.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="passoff" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.passoff in Cheney-SpellingCorrector" />
+        <item itemvalue="JUnit.TrieTest" />
+        <item itemvalue="JUnit.SpellTest" />
+        <item itemvalue="JUnit.SpellTest.testBigFile" />
+        <item itemvalue="JUnit.TrieTest.testSingleWord" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b428f83f-adeb-4cf9-9efe-0cc4ff851fb4" name="Changes" comment="" />
+      <created>1694041104504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694041104504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
